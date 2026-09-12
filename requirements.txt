@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+pillow
+pillow-heif
+pillow-avif-plugin
